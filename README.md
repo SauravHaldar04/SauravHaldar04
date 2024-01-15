@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Saurav Haldar</h1>
 <h3 align="center">A student with keen interest in App and Game Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravHaldar04&label=Profile%20views&color=0e75b6&style=flat" alt="SauravHaldar04" /> </p>
