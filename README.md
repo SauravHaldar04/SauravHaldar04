@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sauravhaldar04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurav-haldar-6376b9274/) 
-![Uploading image.png…]()
+![image](https://github.com/SauravHaldar04/SauravHaldar04/assets/143389228/00188dc9-cdec-4adf-be3c-06e8df332f5c)
 
 
 # 💻 Tech Stack:
