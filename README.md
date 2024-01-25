@@ -18,6 +18,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SauravHaldar04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravHaldar04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SauravHaldar04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SauravHaldar04&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
