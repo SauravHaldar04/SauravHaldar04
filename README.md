@@ -54,7 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-![image](https://github.com/SauravHaldar04/SauravHaldar04/assets/143389228/39da5851-0440-40ce-a8c0-a989a169980e)
+<div>
+![image](https://github.com/SauravHaldar04/SauravHaldar04/assets/143389228/39da5851-0440-40ce-a8c0-a989a169980e)  
+</div>
+
 
 
 # 📊 GitHub Stats:
