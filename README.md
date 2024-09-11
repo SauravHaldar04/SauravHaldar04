@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sauravhaldar04) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/saurav-haldar-6376b9274/) [![X.com](https://skillicons.dev/icons?i=twitter)](https://x.com/SauravHaldar04) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sauravhaldar04)  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/saurav-haldar-6376b9274/)  [![X.com](https://skillicons.dev/icons?i=twitter)](https://x.com/SauravHaldar04)  [![Gmail](https://skillicons.dev/icons?i=gmail)](sauravhaldar3804@gmail.com) 
+
 
 
 
