@@ -9,7 +9,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,html,css,js,ts,dart,flutter,firebase,nodejs,express,fastapi,mysql,postgresql,mongodb,supabase,googlecloud,docker,unity,godot,aftereffects,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,html,css,js,ts,dart,flutter,firebase,nodejs,express,fastapi,mysql,postgresql,mongodb,supabase,googlecloud,docker,unity,godot,postman,git,github,vscode,visualstudio,npm,selenium,aftereffects,premiere,figma)](https://skillicons.dev)
 
 ###
 ###
